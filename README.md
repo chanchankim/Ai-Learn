@@ -562,7 +562,7 @@ tensorflow,Pytorch,keras,caffe等，有这么多框架，我该选哪一个呢�
 
 通过这几年的线上课程还有线下的企业培训结识了很多小伙伴，机构和同学们的信任是我继续更新课程最大的动力
 。大家认识我基本都是通过视频课程，很开心能给大家带来收获，记得最兴奋的就是跟家人分享又有小伙伴收获
-offer了。感谢这么多小伙伴的支持，加油，你们都是最棒的！
+offer了。感谢这么多小伙伴的支持，加油，你们都是最棒的！加油！！！
  
 <div align="center">
 <a href="https://github.com/tangyudi/Ai-learn"><img src="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo5.png" width="600"/></a>
